@@ -61,6 +61,7 @@ AI coding moved from autocomplete to agents that read the repository, run comman
 - [Refio](https://plugins.jetbrains.com/plugin/30487-refio) - Local-first AI coding plugin for JetBrains IDEs (by the author of this list).
 - [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open-source autonomous software development system built on AI agents.
 - [TestSprite](https://www.testsprite.com/) - Agentic testing tool that writes end-to-end tests and runs them after each code change.
+- [agent-qa](https://vostride.com) - Natural-language web and mobile testing for coding agents, with memidex persistent memory, validated self-improvement and reviewable run evidence.
 
 ## Agent rules, instructions and skills
 

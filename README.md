@@ -17,7 +17,7 @@ This list started as about 2,900 browser bookmarks collected since the early And
 
 | Field | Links |
 |---|---:|
-| [AI coding assistants and agents](domains/ai-coding.md) | 85 |
+| [AI coding assistants and agents](domains/ai-coding.md) | 86 |
 | [LLMs, local inference and RAG](domains/llm.md) | 171 |
 | [Generative image, video and audio](domains/gen-media.md) | 71 |
 | [AI apps for everyday work](domains/ai-apps.md) | 34 |
